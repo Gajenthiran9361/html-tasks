@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Guide to web Development</h1>
+    <h2>table of contents</h2>
+    <h3>1.Introduction</h3>
+    <h3>2.HTML basics</h3>
+    <h3>3.css basics</h3>
+    <h3>4.javascript introduction</h3>
+    <h3>5.conclusion</h3>
+
+
+    <h1>1.Introdution</h1>
+    <h3>This guide walk you through the basics of web development.</h3>
+
+    <h1>2.HTML Basics</h1>
+    <h3>HTML is the found of the webpages.it structure content using elements like,heading,paragraphs,and links.</h3>
+
+    <h1>3.CSS Basics</h1>
+    <h3>CSS is used to style and layout HTML content.You can change colours,fonts,spacing,and much more.</h3>
+
+    <h1>4.JavaScript Introduction</h1>
+    <h3>Javascript adds interactivity to websites.such as dynamic content updates,animations,and user input handling.</h3>
+
+    <h1>5.Conclusion</h1>
+    <h3>Web development is a valuable skill.start small and build your knowledge step by step.</h3>
+</body>
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Mozilla is cool</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yCy5zICk3tU5rAm7duEoCALIM7Po3v0pp9jboTbICQ&s=10"/>
+    <h2>At Mozilla,we're a global community of</h2>
+
+    <h3>technologists</h3>
+    <h3>thinkers</h3>
+    <h3>builders</h3>
+<p>working together to keep the internet alive and accessible,so people worldwide can be informed contributors and creators of the web.we Believe this act of human collaboration across an open is essential to individual growth and our collective future.</p>
+<p>Read the <a href="">Mozilla manifesto</a>to learn even more about the values and principles that guide the pursuit of our mission.</p>
+</body>
+</html>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>World Wide Web</h1>
+
+    <h2> The worldwideweb (w3) is a wide-area <a href="">hypermedia</a>information retrieval initiative aiming to give universal access to a large universe of documents.</h2>
+
+    Everything there is online about W3 is linked directly or indirectly to this document,including an <a href="">executive summary</a>of the project,<a href="">mailing lists,policy,</a>november's<a href="">w3 news,frequently asked questions.</a></h2>
+</body>
+</html>
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
