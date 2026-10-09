@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style> 
+        BODY{
+            background-color: blueviolet;
+        }
+        h1{
+            text-align: center;
+        }
+    button{
+        background-color: aqua;
+    }
+    </style>
+</head>
+<body>
+    <h1>Health</h1>
+    <h2>Time to Get Healthy and Active</h2>
+
+    <p>duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Exepteur sint occaect cupidatat non proident,sunt in culpa quiofficia deserunt mollit anim id est laborum</p>
+
+    <button>Read more</button>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfsoWhbtKsu8t4c7vS9L2Z_2zmzt-ykOz_IXWTfEHzgN3CwundklL6ig&s=10">
+    <h4>using this website,you automatically accept that we use cookies.Learn more about our <a href="">privacy and cookies policy.</a></h4>
+    <button>Accept</button>
+    </body>
+</html>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
